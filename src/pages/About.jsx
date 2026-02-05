@@ -45,6 +45,7 @@ const About = () => {
               Presence over perfection. Breath over force. Consistency over
               intensity.
             </p>
+            
           </div>
 
           <div className="bg-white p-8 rounded-3xl shadow-md">
