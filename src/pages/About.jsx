@@ -13,7 +13,8 @@ const About = () => {
 
           <p className="mt-6 max-w-xl text-green-100 leading-relaxed">
             This platform was created to help you slow down, tune inward,
-            and build a mindful practice that feels natural and sustainable.
+            and build a mindful practice that feels natural and
+             sustainable.
           </p>
         </div>
       </div>
