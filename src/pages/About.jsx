@@ -15,6 +15,7 @@ const About = () => {
             This platform was created to help you slow down, tune inward,
             and build a mindful practice that feels natural and
               sustainable.
+              
           </p>
         </div>
       </div>
