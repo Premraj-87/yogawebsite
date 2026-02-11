@@ -14,7 +14,7 @@ const PoseCard = ({ pose }) => {
         />
 
         {/* Level Badge */}
-        <span className="absolute top-4 left-4 bg-white/90 text-green-700 text-xs px-3 py-1 rounded-full tracking-wide">
+        <span className="absolute   top-4 left-4 bg-white/90 text-green-700 text-xs px-3 py-1 rounded-full tracking-wide">
           {pose.level}
         </span>
       </div>
