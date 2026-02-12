@@ -55,7 +55,7 @@ const About = () => {
               Practice
             </span>
             <p className="mt-4 text-gray-700 leading-relaxed">
-              Clear pose guidance, thoughtful sequencing, and calm pacing
+              Clear pose guidance,thoughtful sequencing, and calm pacing
               that respects your body’s rhythm.
             </p>
           </div>
