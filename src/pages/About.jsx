@@ -45,7 +45,7 @@ const About = () => {
             </span>
             <p className="mt-4 text-gray-700 leading-relaxed">
               Presence over perfection. Breath over force. Consistency over
-              intensity.
+              intensity.    
             </p>
             
           </div>
